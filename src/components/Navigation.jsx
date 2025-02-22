@@ -8,7 +8,7 @@ export default function Navigation() {
           <NavLink to="/schedule" className="hover:text-blue-400">Study Schedule</NavLink>
           <NavLink to="/assignments" className="hover:text-blue-400">Assignments</NavLink>
           <NavLink to="/notes" className="hover:text-blue-400">Notes</NavLink>
-          <NavLink to="/reminders" className="hover:text-blue-400">Reminders</NavLink>
+          <NavLink to="/reminders" className="hover:text-blue-400">Reminders & sessions</NavLink>
         </nav>
       );
 }
